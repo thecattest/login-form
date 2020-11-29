@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Login Form</string>
+    <string name="test_et_hint">Type whatever you want</string>
+    <string name="login_hint">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="res_ok">Correct!</string>
+    <string name="res_err">Incorrect login or password</string>
+    <string name="help">Remind</string>
+    <string name="button_check">Log in</string>
+</resources>
